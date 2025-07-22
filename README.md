@@ -2,7 +2,7 @@
 
 ## The Project
 
-In this project, I created a scraper that looks for inventory I can sell on my eBay store through channels of Craigslist, Goodwill auctions, and OfferUp. I no longer sell on eBay so this project has not been updated since spring of 2024. So, with some slight changes to the scraping of each website, this should be fully functional for today's sites. Sourcing is a pain, and a very monotonous task. So, using this code, sourcing time is reduced and that time can be better spent on other tasks. I specifically only sold camera equipment, so all of the files are very targeted for that niche.
+In this project, I created a scraper that looks for inventory I can sell on my eBay store through channels of Craigslist, Goodwill auctions, and OfferUp. I no longer sell on eBay so these scraping methods may have been blocked. So, with some slight changes to the scraping of each website, this should be fully functional for today's sites. Sourcing is a pain, and a very monotonous task. So, using this code, sourcing time is reduced and that time can be better spent on other tasks. I specifically only sold camera equipment, so all of the files are very targeted for that niche.
 
 For this project I utilize playwright to scrape the websites, and chatGPT to analyze the listings.
 
